@@ -1,0 +1,1 @@
+python C:\Users\boboi\OneDrive\Documents\selenium\nhentai_auto_most_like\quick_edge.py
